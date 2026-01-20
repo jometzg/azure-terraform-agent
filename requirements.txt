@@ -1,0 +1,10 @@
+azure-ai-projects>=1.0.0
+azure-identity>=1.25.0
+azure-mgmt-resource>=24.0.0
+azure-mgmt-compute>=30.0.0
+azure-mgmt-network>=25.0.0
+azure-mgmt-storage>=21.0.0
+azure-mgmt-keyvault>=10.0.0
+python-hcl2>=7.0.0
+gitpython>=3.1.0
+python-dotenv>=1.0.0
